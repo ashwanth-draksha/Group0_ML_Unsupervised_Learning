@@ -12,5 +12,5 @@ This repo is created as part of Introduction to Machine Learning course assignme
 9. Image classification with neural networks
         
 Team:    
-Ashwanth Draksha Sathishkumar - ad55293 <ashwanth.draksha@utexas.edu>      
-Rajkumar Rajavel - rr53572 <rajkumar.rajavel@utexas.edu>    
+Ashwanth Draksha Sathishkumar - ad55293 <<ashwanth.draksha@utexas.edu>>       
+Rajkumar Rajavel - rr53572 <<rajkumar.rajavel@utexas.edu>>    
