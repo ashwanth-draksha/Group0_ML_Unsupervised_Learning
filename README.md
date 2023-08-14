@@ -10,7 +10,11 @@ This repo is created as part of Introduction to Machine Learning course assignme
 7. The Reuters corpus    
 8. Association rule mining     
 9. Image classification with neural networks
+
+
         
 Team:    
 Ashwanth Draksha Sathishkumar - ad55293 (<ashwanth.draksha@utexas.edu>)       
-Rajkumar Rajavel - rr53572 (<rajkumar.rajavel@utexas.edu>)    
+Rajkumar Rajavel - rr53572 (<rajkumar.rajavel@utexas.edu>)         
+
+Github Repo URL - (<https://github.com/ashwanth-draksha/Group0_ML_Unsupervised_Learning>)     
