@@ -1,5 +1,5 @@
 ## GROUP 0 ML Unsupervised Learning
-# STA-380-Part2-Solutions
+# STA-380
 This repo is created as part of Introduction to Machine Learning course assignment. In this repo we have covered and answered the following concepts:  
 1. Probability Practise    
 2. Wrangling the Billboard Top 100    
